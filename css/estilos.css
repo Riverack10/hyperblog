@@ -48,3 +48,10 @@ body
     background: white;
     padding: 1em;
 }
+#footer
+{
+    color: white;
+    background: rgb(141, 141, 141);
+    text-align: center;
+    padding: 0.5em;
+}
